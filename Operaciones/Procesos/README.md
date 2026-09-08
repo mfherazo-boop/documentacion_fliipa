@@ -41,8 +41,8 @@ El conjunto de documentos del proceso se organiza de forma secuencial, desde la 
 |---|-------|---------|-----------|
 | 1 | Captación comercial | Contacto simultáneo por correo, WhatsApp y llamada sobre clientes preaprobados de D1. | [01-captacion-comercial.md](01-captacion-comercial.md) |
 | 2 | Onboarding digital | Registro del cliente y validación de datos en ~3 minutos. | [01 Onboarding Digital.md](01 Onboarding Digital.md) |
-| 3 | Validación de identidad (KYC) | PIN, biometría (Olimpia), extractos y cuenta bancaria (Druo). | [02 Validacion Kcy Y Evaluación Riesgo.md](02 Validacion Kcy Y Evaluaci�n Riesgo.md) |
-| 4 | Evaluación de riesgo | Score Experian + histórico D1; aprueba, ajusta o rechaza el cupo. | [02 Validacion Kcy Y Evaluación Riesgo.md](02 Validacion Kcy Y Evaluaci�n Riesgo.md) |
+| 3 | Validación de identidad (KYC) | PIN, biometría (Olimpia), extractos y cuenta bancaria (Druo). | [02 Validación KYC y Evaluación Riesgo.md](02 Validación KYC y Evaluación Riesgo.md) |
+| 4 | Evaluación de riesgo | Score Experian + histórico D1; aprueba, ajusta o rechaza el cupo. | [02 Validación KYC y Evaluación Riesgo.md](02 Validación KYC y Evaluación Riesgo.md) |
 | 5 | Firma de contrato y activación | Revisión y firma del contrato/pagaré; asignación del bono. | [03 Firma Contrato.md](03 Firma Contrato.md) |
 | 6 | Dispersión de fondos | Fiducia Colpatria; costo GMF (4x1000); bloqueo del remanente. | [05 Dispersion Fondos.md](05 Dispersion Fondos.md) |
 | 7 | Uso y renovación del cupo | Uso del bono en D1 y evaluación de renovación por comportamiento. | [05 Dispersion Fondos.md](05 Dispersion Fondos.md) |
@@ -55,17 +55,17 @@ El conjunto de documentos del proceso se organiza de forma secuencial, desde la 
 ## Documentos relacionados
 
 - [Negocio](../../README.md)
-- [Flipa - Biblioteca de Conocimiento](../../README.md)
+- [Fliipa - Biblioteca de Conocimiento](../../README.md)
 - [Mapa Del Conocimiento](../../README.md)
 - [Onboarding](../../README.md)
 - [Convenciones](../../README.md)
 - [Producto](../../Producto/alcance.md)
 - [Funcional](../../README.md)
 - [Qa](../../README.md)
- - [Descripcion Negocio](../../README.md)
- - [Actores](../../Negocio/Actores/README.md)
- - [Indicadores](../../Negocio/Indicadores/README.md)
- - [Reglas Negocio](../../README.md)
+- [Descripción Negocio](../../README.md)
+- [Actores](../../Negocio/Actores/README.md)
+- [Indicadores](../../Negocio/Indicadores/README.md)
+- [Reglas Negocio](../../README.md)
 
 ## Fuentes consultadas
 
